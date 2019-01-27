@@ -8,3 +8,10 @@ Ses taches de base:
 -La gestion des processus
 -La gestion des fichiers
 -la gestion des Entrées/Sorties
+La description de GNU:
+GNU est un système d'exploitation libre créé en 1983 par Richard Stallman, maintenu par le projet GNU.
+Type de noyau: Micronoyau
+Licence: GNU GPL,GNU LGPL,GNU AGPL,GNU FDL,GNU FSDG .
+Famille: type Unix.
+Etats de sources : Logiciel libre
+Langages de programmation: C, Assembleur.
