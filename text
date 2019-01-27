@@ -1,3 +1,10 @@
-hahhahahha
-hello INDP1A
-I'am ghourabi ep hsairi 
+Les caractéristiques du noyau Linux :
+-Multi-tache
+-Multi-utilisateur
+-Système de fichier arborescent
+Ses taches de base:
+-L'initialisation du systeme 
+-la gestion des ressources 
+-La gestion des processus
+-La gestion des fichiers
+-la gestion des Entrées/Sorties
